@@ -13,12 +13,20 @@
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&langs_count=7&theme=dark"/>
     
-</div>
 <div style="display: inline_block"><br>
-   <img src="https://img.icons8.com/nolan/70/java-coffee-cup-logo.png" /> <img src="https://img.icons8.com/bubbles/70/pixel-cat.png" /> 
-  <img src="https://img.icons8.com/bubbles/70/bright-moon.png" /> <img src="https://img.icons8.com/bubbles/70/kawaii-pizza.png" /> 
-  <img src="https://img.icons8.com/bubbles/70/pokemon.png" /> <img src="https://img.icons8.com/bubbles/70/mana.png" />
+  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://img.icons8.com/nolan/70/java-coffee-cup-logo.png">
+  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/pixel-cat.png">
+  <img align="center" alt="Rafa-React" height="70" width="70" src="https://img.icons8.com/bubbles/70/bright-moon.png">
+  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://img.icons8.com/bubbles/70/kawaii-pizza.png">
+  <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://img.icons8.com/bubbles/70/pokemon.png">
+  <img align="center" alt="Rafa-Python" height="70" width="70" src="https://img.icons8.com/bubbles/70/mana.png">
+  
+  
 </div>
+
+##
+
+<img src="https://data.whicdn.com/images/309541334/original.gif" />
   
   ##
   
