@@ -7,7 +7,14 @@
     
     
 <div> 
-  <a href="https://instagram.com/vsvitorsam?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <div>
+        <a href="https://discord.gg/xJV6adeEkS"><img src="https://img.icons8.com/bubbles/70/discord-logo.png" class"media-object
+  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/discord-logo.png">
+        <a href="https://www.instagram.com/vsvitorsam/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/bubbles/70/instagram-new--v2.png" class"media-object
+  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/instagram-new--v2.png">
+          
+  </div>
   
   ##
     
