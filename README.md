@@ -14,11 +14,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&langs_count=7&theme=dark"/>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://img.icons8.com/nolan/70/java-coffee-cup-logo.png">
+    <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/pixel-cat.png" class"media-object
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/pixel-cat.png">
+    <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/bright-moon.png" class"media-object
   <img align="center" alt="Rafa-React" height="70" width="70" src="https://img.icons8.com/bubbles/70/bright-moon.png">
+      <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/kawaii-pizza.png" class"media-object
   <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://img.icons8.com/bubbles/70/kawaii-pizza.png">
+      <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/pokemon.png" class"media-object
   <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://img.icons8.com/bubbles/70/pokemon.png">
+        <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/mana.png" class"media-object
   <img align="center" alt="Rafa-Python" height="70" width="70" src="https://img.icons8.com/bubbles/70/mana.png">
   
   
