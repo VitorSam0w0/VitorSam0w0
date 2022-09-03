@@ -1,6 +1,8 @@
 
 ## Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
+
   ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
+  
 <div align="center">
   <a href="https://github.com/VitorSam0w0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -40,6 +42,7 @@
 <img src="https://data.whicdn.com/images/309541334/original.gif" />
   
   ##
+  
   
   ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
  
