@@ -57,12 +57,6 @@
 
 </div>
 
-<html>
-<body>
-
-<embed src="Music/lofi.mp3" autostart="true" loop="true" width="0" height="0">
-
-</body>
-</html>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
+
