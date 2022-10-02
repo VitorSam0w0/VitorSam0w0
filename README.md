@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/discord-logo.png">
         <a href="https://www.instagram.com/vsvitorsam/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/bubbles/70/instagram-new--v2.png" class"media-object
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/instagram-new--v2.png">
-        <a href="https://cdn-icons-png.flaticon.com/128/3670/3670382.png"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" class"media-object
+        <a href="https://steamcommunity.com/profiles/76561198438412285"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" class"media-object
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png">
           
   </div>
