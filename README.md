@@ -1,24 +1,28 @@
-
-## Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
+### Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
 
   ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
 
+  
+  ##
+  
+  <div align="center">
+  
   <div>
         <a href="https://discord.gg/xJV6adeEkS"><img src="https://img.icons8.com/bubbles/70/discord-logo.png" class"media-object
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/discord-logo.png">
         <a href="https://www.instagram.com/vsvitorsam/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/bubbles/70/instagram-new--v2.png" class"media-object
   <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/instagram-new--v2.png">
         <a href="https://steamcommunity.com/profiles/76561198438412285"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png">
+  <img align="center" alt="Rafa-Ts" height="55" width="55" src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png">
           
   </div>
   
   ##
   
-    ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
-    
-                    ##
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
   
+  ##
+
     
 <div align="center">
   <a href="https://github.com/VitorSam0w0">
@@ -27,10 +31,9 @@
     
 <div> 
 
-
-  ##
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&langs_count=7&theme=dark"/>
+  
     
 <div style="display: inline_block"><br>
     <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/pixel-cat.png" class"media-object
