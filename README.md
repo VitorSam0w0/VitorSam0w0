@@ -57,14 +57,7 @@
 
 </div>
 
-<html>
-<body>
-
-<embed src="https://user-images.githubusercontent.com/111717270/193470913-c6f4639b-9941-4d1f-a460-fdedf726b36e.mp4" autostart="true" loop="true" width="0" height="0">
-
-</body>
-</html>
-
+https://user-images.githubusercontent.com/111717270/193470913-c6f4639b-9941-4d1f-a460-fdedf726b36e.mp4
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
