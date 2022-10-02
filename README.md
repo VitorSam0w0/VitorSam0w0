@@ -1,4 +1,4 @@
-
+<a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Dias;I'm+20+years+old;I+from+Jaguaruna,+SC;I+study+Information+systems+at+Unisul+Tubarão+SC;Be+WelCome!!+:%29)](https://git.io/typing-svg)
 
