@@ -51,9 +51,6 @@
 ##
 
 <a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
-##
-
-<script src="//code.jivosite.com/widget/GOS6fXYBxk" async></script>
 
 ##
 </div>
