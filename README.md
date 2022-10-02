@@ -2,13 +2,6 @@
 ## Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
 
   ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
-  
-<div align="center">
-  <a href="https://github.com/VitorSam0w0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-    
-<div> 
 
   <div>
         <a href="https://discord.gg/xJV6adeEkS"><img src="https://img.icons8.com/bubbles/70/discord-logo.png" class"media-object
@@ -22,7 +15,18 @@
   
   ##
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
+    ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
+    
+                    ##
+  
+    
+<div align="center">
+  <a href="https://github.com/VitorSam0w0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    
+    
+<div> 
+
 
   ##
     
