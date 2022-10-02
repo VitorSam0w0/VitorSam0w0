@@ -1,4 +1,6 @@
-### Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Dias;I'm+20+years+old;I+from+Jaguaruna,+SC;I+study+Information+systems+at+Unisul+Tubarão+SC;Be+WelCome!!+:%29)](https://git.io/typing-svg)
 
   ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
 
