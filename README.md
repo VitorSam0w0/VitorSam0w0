@@ -21,6 +21,10 @@
   </div>
   
   ##
+  
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
+
+  ##
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&langs_count=7&theme=dark"/>
     
