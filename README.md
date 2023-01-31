@@ -20,7 +20,6 @@
 
   ##
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=VitorSam0w0&theme=gotham&hide_border=true&area=true)
   
   ##
   
