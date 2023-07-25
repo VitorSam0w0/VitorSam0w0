@@ -10,7 +10,6 @@
 
 ###
 
-
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
 
 ##
@@ -33,7 +32,6 @@
 
 ###
 
-
 ##
   
 </div>
@@ -53,35 +51,15 @@
   <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/React_(JavaScript))" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
   <img width="12" />
   <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
-
-
 </div>
-
 
 ##
+
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
 
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)
-
-  
-  <div>
-  
-    
-  
+  <div>    
 </div>
-
-
-
-
 <a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
-
-
-
 </div>
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
-
