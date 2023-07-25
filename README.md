@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+é+Vitor+Dias;Eu+Tenho+21+Anos+;Sou+de+Jaguaruna,+SC;Um+Dia+Eu+Vou+Ser+Um+Exelente+Programador!!+:%29)](https://git.io/typing-svg)
 
+![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
+
 
   ##
   
