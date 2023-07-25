@@ -9,37 +9,57 @@
 
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
 
-###
+##
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h3 align="left">Minhas redes sociais:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/vitor-samuel-314566244/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/vsvitorsam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=purple&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/bFUYdPDhaN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=3232CD&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
 </div>
 
 ###
+
+
 ##
   
 </div>
   <div align="center">
 
+<img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/Artists-as-entrepreneurs.png"  />
+
+###
+
+<h3 align="right">Próximas tecnologias que pretendo aprender:</h3>
+
+###
+
+<div align="right">
+  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
+  <img width="12" />
+  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/React_(JavaScript))" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
+  <img width="12" />
+  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
+
+
+</div>
+
+
+##
+<img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
+
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)
+
   
   <div>
   
@@ -55,6 +75,7 @@
 
 
 </div>
+
 
 
 
