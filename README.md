@@ -12,7 +12,7 @@
 
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
 
-
+<br>
 
 <h3 align="left">Minhas redes sociais:</h3>
 
@@ -40,8 +40,6 @@
   <div align="center">
 
 <img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
-
-
 
 ###
 
