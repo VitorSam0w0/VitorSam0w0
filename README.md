@@ -1,31 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+é+Vitor+Dias;Eu+Tenho+21+Anos+;Sou+de+Jaguaruna,+SC;Um+Dia+Eu+Vou+Ser+Um+Exelente+Programador!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Meu+Nome+é+Vitor+Dias;Eu+Tenho+21+Anos+;Sou+de+Jaguaruna,+SC;Um+Dia+Eu+Vou+Ser+Um+Exelente+Programador!!+:%29)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true)
 
-
-  ##
   
   <div align="center">
-  
-  <div>
-            <a href="https://steamcommunity.com/profiles/76561198438412285"><img src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="55" width="55" src="https://cdn-icons-png.flaticon.com/128/3670/3670382.png">
-        <a href="https://discord.gg/bFUYdPDhaN"><img src="https://img.icons8.com/bubbles/70/discord-logo.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/discord-logo.png"> 
-          </div>
 
-  ##
   
 
   
   <div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&count_private=true&hide_border=true&title_color=7CFC00&icon_color=8B008B&text_color=00FFFF&bg_color=0d1117" alt="Vitor Dias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&hide_border=true&title_color=7CFC00&text_color=00FFFF&bg_color=0d1117" />
-</div>
   
     
 <div style="display: inline_block"><br>
@@ -56,5 +41,5 @@
 https://user-images.githubusercontent.com/111717270/193470913-c6f4639b-9941-4d1f-a460-fdedf726b36e.mp4
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
 
