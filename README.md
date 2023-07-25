@@ -7,8 +7,7 @@
   
   <div align="center">
 
-  
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)
   
   <div>
   
