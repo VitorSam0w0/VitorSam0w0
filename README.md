@@ -4,7 +4,11 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true) <img src="https://streak-stats.demolab.com?user=VitorSam0w0&amp;locale=pt-br&amp;mode=daily&amp;theme=graywhite&amp;hide_border=false&amp;border_radius=5&amp;order=3" height="150" alt="streak graph">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true) <div align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorSam0w0&locale=pt-br&mode=weekly&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
