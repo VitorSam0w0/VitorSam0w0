@@ -12,7 +12,7 @@
 
 <img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
 
-##
+
 
 <h3 align="left">Minhas redes sociais:</h3>
 
@@ -30,14 +30,32 @@
   </a>
 </div>
 
+<br>
+
 ###
 
-##
+
   
 </div>
   <div align="center">
 
-<img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/Artists-as-entrepreneurs.png"  />
+<img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
+
+
+
+###
+
+<h3 align="left">Tecnologias que estou aprendendo:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
 ###
 
@@ -53,11 +71,14 @@
   <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
 </div>
 
-##
 
-<img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
+
+<br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)
+
+
+
   <div>    
 </div>
 <a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
