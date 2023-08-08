@@ -5,8 +5,10 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true) <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorSam0w0&locale=pt-br&mode=weekly&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=VitorSam0w0&locale=pt-br&mode=daily&theme=graywhite&hide_border=false&border_radius=88&order=3" height="156" alt="streak graph"  />
 </div>
+
+###
 
 ###
 
