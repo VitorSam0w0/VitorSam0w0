@@ -1,12 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=𝒪𝓅𝒶,+ℳ𝑒𝓊+𝒩𝑜𝓂𝑒+𝑒́+𝒱𝒾𝓉𝑜𝓇+𝒟𝒾𝒶𝓈;ℰ𝓊+𝒯𝑒𝓃𝒽𝑜+𝟐𝟏+𝒜𝓃𝑜𝓈+;𝒮𝑜𝓊+𝒹𝑒+𝒥𝒶𝑔𝓊𝒶𝓇𝓊𝓃𝒶,+𝒮𝒞;+ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓗𝓣𝓜𝓛,+𝓒𝓢𝓢+𝓮+𝓙𝓢;+ℰ𝓊+𝒜𝓂𝑜+𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝒶𝓇❤;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=𝒪𝓅𝒶,+ℳ𝑒𝓊+𝒩𝑜𝓂𝑒+𝑒́+𝒱𝒾𝓉𝑜𝓇+𝒟𝒾𝒶𝓈;ℰ𝓊+𝒯𝑒𝓃𝒽𝑜+𝟐𝟏+𝒜𝓃𝑜𝓈+;𝒮𝑜𝓊+𝒹𝑒+𝒥𝒶𝑔𝓊𝒶𝓇𝓊𝓃𝒶,+𝒮𝒞;+ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓗𝓣𝓜𝓛,+𝓒𝓢𝓢+𝓮+𝓙𝓢;+ℰ𝓊+𝒜𝓂𝑜+𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝒶𝓇❤;)](https://git.io/typing-svg) 
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true) <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorSam0w0&locale=pt-br&mode=daily&theme=graywhite&hide_border=false&border_radius=88&order=3" height="156" alt="streak graph"  />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true)
 
 ###
 
