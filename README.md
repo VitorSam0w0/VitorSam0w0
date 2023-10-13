@@ -50,9 +50,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  />
 </div>
 
 ###
@@ -63,8 +61,6 @@
 
 <div align="right">
   <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
-  <img width="12" />
-  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/React_(JavaScript))" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
   <img width="12" />
   <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
 </div>
