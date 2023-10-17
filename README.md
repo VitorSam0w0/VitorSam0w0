@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  />
+<a href='https://github.com/VitorSam0w0'><img align="right" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/NEW-INC-The-first-art.png"  /></a>
 
 <br>
 
@@ -39,7 +39,7 @@
 </div>
   <div align="center">
 
-<img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  />
+<a href='https://github.com/VitorSam0w0'><img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  /></a>
 
 ###
 
