@@ -48,9 +48,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <label htmlfor='JS'> <-JavaScript</label>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  />
+    <img width="12" />
+  <img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  />
+      <label htmlfor='react'> <-React</label>
 </div>
 
 ###
@@ -60,9 +63,12 @@
 ###
 
 <div align="right">
-  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
+      <label htmlfor='typeS'>TypeScript -></label>
+  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a>
   <img width="12" />
-  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
+   <img width="12" />
+        <label htmlfor='nodeJS'>Node JS -></label>
+  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><img id='nodeJS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a>
 </div>
 
 ##
