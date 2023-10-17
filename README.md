@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓡𝓮𝓪𝓬𝓽;)](https://git.io/typing-svg) 
+<a href='https://github.com/VitorSam0w0'>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓡𝓮𝓪𝓬𝓽;)](https://git.io/typing-svg)</a>
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true)
+<a href='https://github.com/VitorSam0w0'>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true)</a>
 
 ###
 
