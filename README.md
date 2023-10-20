@@ -48,11 +48,11 @@
 ###
 
 <div align="left">
-  <a href='https://pt.wikipedia.org/wiki/Javascript' target="_blank" ><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
+  <a href='https://pt.wikipedia.org/wiki/Javascript' target="_blank" rel="external" ><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
     <label htmlfor='JS'> <-JavaScript</label>
   <img width="12" />
     <img width="12" />
-  <a href='https://pt.wikipedia.org/wiki/React_(JavaScript)' target="_blank"><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
+  <a href='https://pt.wikipedia.org/wiki/React_(JavaScript)' target="_blank" rel="external" ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
       <label htmlfor='react'> <-React</label>
 </div>
 
@@ -64,11 +64,11 @@
 
 <div align="right">
       <label htmlfor='typeS'>TypeScript -></label>
-  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank"><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
+  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank" rel="external"><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
   <img width="12" />
    <img width="12" />
         <label htmlfor='nodeJS'>Node JS -></label>
-  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><a href='https://pt.wikipedia.org/wiki/Node.js' target="_blank" ><img id='nodeJS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a><a/>
+  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><a href='https://pt.wikipedia.org/wiki/Node.js' target="_blank" rel="external" ><img id='nodeJS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a><a/>
 </div>
 
 ##
