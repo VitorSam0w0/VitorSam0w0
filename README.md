@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/>
+<a href='https://github.com/VitorSam0w0'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓡𝓮𝓪𝓬𝓽;)](https://git.io/typing-svg)
 
@@ -83,7 +83,7 @@
 </div>
 <a href="https://www.webcontadores.com" title="contador para blog"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/>
+<a href='https://github.com/VitorSam0w0'></a><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/></>
 
 <!--
     　 　　／＞　 フ
