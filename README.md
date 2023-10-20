@@ -48,11 +48,11 @@
 ###
 
 <div align="left">
-  <a href='https://pt.wikipedia.org/wiki/Javascript' target="_blank" rel="external" ><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
+  <a href='https://github.com/VitorSam0w0/estudos/tree/main/JavaScript' target="_blank" rel="external" ><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
     <label htmlfor='JS'> <-JavaScript</label>
   <img width="12" />
     <img width="12" />
-  <a href='https://pt.wikipedia.org/wiki/React_(JavaScript)' target="_blank" rel="external" ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
+  <a href='https://github.com/VitorSam0w0/EstudoReact' target="_blank" rel="external" ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
       <label htmlfor='react'> <-React</label>
 </div>
 
