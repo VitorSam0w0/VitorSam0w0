@@ -75,7 +75,7 @@
 
 <br>
 
-<a href='https://github.com/VitorSam0w0'>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)</a>
+<a href='https://open.spotify.com/playlist/1KwVUXN838VTx083LczKqV?si=7298ff5d2d1741c7' target="_blank" rel="external">![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)</a>
 
 
 
