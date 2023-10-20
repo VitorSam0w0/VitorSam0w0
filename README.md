@@ -81,7 +81,7 @@
 
   <div>    
 </div>
-<a href="https://github.com/VitorSam0w0" title="Visitas ao meu GitHub"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
+<a href="https://github.com/VitorSam0w0" title="Visitas ao GitHub de Vitor Dias!"><img src="https://counter9.stat.ovh/private/webcontadores.php?c=lxt7ml67nch3xe4lfxzkzstjszk2hur2" border="0" title="contador para blog" alt="contador para blog"></a>
 </div>
 <a href='https://github.com/VitorSam0w0'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=footer"/></a>
 
