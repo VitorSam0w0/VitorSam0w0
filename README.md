@@ -75,8 +75,6 @@
 
 <br>
 
-![snake gif](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.gif)
-
 <a href='https://open.spotify.com/playlist/3MQHMe17wtWzyX1rz7lp08?si=487081ec940843e5' target="_blank" rel="external" title='Umas musicas que escuto no meu dia a dia!'>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)</a>
 
 
