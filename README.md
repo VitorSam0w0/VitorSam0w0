@@ -66,7 +66,9 @@
 
 <div align="right">
       <label htmlfor='typeS'>TypeScript -></label>
-  <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
+  <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
+        <label htmlfor='typeS'> Tailwind CSS -></label>
+  <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://en.wikipedia.org/wiki/Tailwind_CSS' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="Tailwind CSS logo"  /></a></a>
   <img width="12" />
    <img width="12" />
 </div>
