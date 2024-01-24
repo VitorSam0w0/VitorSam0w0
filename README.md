@@ -1,6 +1,6 @@
 <a href='https://github.com/VitorSam0w0' title='Hunn, legal você ter parado o mouse aqui :)'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=ℰ𝓈𝓉𝑜𝓊+𝒶𝓅𝓇𝑒𝓃𝒹𝑒𝓃𝒹𝑜+𝓡𝓮𝓪𝓬𝓽;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Estou+aprendendo+Next.js+,+Bootstrap+e+Sass;)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -48,12 +48,14 @@
 ###
 
 <div align="left">
-  <a href='https://github.com/VitorSam0w0/estudos/tree/main/JavaScript' target="_blank" rel="external" title='Se clicar, leva para meus repositorios de JavaScript'><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-    <label htmlfor='JS'> <-JavaScript</label>
-  <img width="12" />
-    <img width="12" />
-  <a href='https://github.com/VitorSam0w0/EstudoReact' target="_blank" rel="external"  title='Se clicar, leva para meus repositorios de React' ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
+  <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="30" alt="Next logo"  /></a>
+    <label htmlfor='Next'> <-Next.js</label>
+  <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external"  title='Se clicar, leva para meus repositorios' ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
       <label htmlfor='react'> <-React</label>
+          <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="30" alt="Bootstrap logo"  /></a>
+    <label htmlfor='Bootstrap'> <-Bootstrap</label>
+                <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="30" alt="Sass logo"  /></a>
+    <label htmlfor='Sass'> <-Sass</label>
 </div>
 
 ###
@@ -67,8 +69,6 @@
   <a href"[https://github.com/VitorSam0w0](https://pt.wikipedia.org/wiki/TypeScript)" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
   <img width="12" />
    <img width="12" />
-        <label htmlfor='nodeJS'>Node JS -></label>
-  <a href"[https://github.com/VitorSam0w0](https://en.wikipedia.org/wiki/Node.js)" ><a href='https://pt.wikipedia.org/wiki/Node.js' target="_blank" rel="external" title='Se clicar, leva para wikipedia'><img id='nodeJS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></a><a/>
 </div>
 
 ##
