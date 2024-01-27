@@ -49,13 +49,13 @@
 
 <div align="left">
   <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="30" alt="Next logo"  /></a>
-    <label htmlfor='Next'> <-Next.js</label>
-  <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external"  title='Se clicar, leva para meus repositorios' ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="css3 logo"  /></a>
-      <label htmlfor='react'> <-React</label>
-          <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" height="30" alt="Bootstrap logo"  /></a>
-    <label htmlfor='Bootstrap'> <-Bootstrap</label>
-                <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" height="30" alt="Sass logo"  /></a>
-    <label htmlfor='Sass'> <-Sass</label>
+    <label htmlfor='Next'> <-- Next.js  </label>
+  <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external"  title='Se clicar, leva para meus repositorios' ><img id='react' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo"  /></a>
+      <label htmlfor='react'> <-- React  </label>
+          <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="Logo TPS"  /></a>
+    <label htmlfor='Typescript'><-- Typescript  </label>
+          <a href='https://github.com/VitorSam0w0?tab=repositories' target="_blank" rel="external" title='Se clicar, leva para meus repositorios'><img id='JS' src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="Tailwind"  /></a>
+    <label htmlfor='Sass'> <-- Tailwind CSS  </label>
 </div>
 
 ###
@@ -65,11 +65,8 @@
 ###
 
 <div align="right">
-      <label htmlfor='typeS'>TypeScript -></label>
-  <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://pt.wikipedia.org/wiki/TypeScript' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></a></a>
-        <label htmlfor='typeS'> Tailwind CSS -></label>
-  <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://en.wikipedia.org/wiki/Tailwind_CSS' target="_blank" rel="external"  title='Se clicar, leva para wikipedia'><img id='typeS' src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="Tailwind CSS logo"  /></a></a>
-  <img width="12" />
+      <label htmlfor='typeS'>Framer Motion --></label>
+  <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://medium.com/@leonardord99/framer-motion-react-514f39a9d03e' target="_blank" rel="external"  title='Se clicar, leva para um site explicando oque é Frame Motion'><img id='typeS' src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="Frame motion logo"  /></a></a>
    <img width="12" />
 </div>
 
