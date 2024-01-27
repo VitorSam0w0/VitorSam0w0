@@ -1,7 +1,7 @@
 <a href='https://github.com/VitorSam0w0' title='Hunn, legal você ter parado o mouse aqui :)'><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c0c0c0&height=120&section=header"/></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Estou+aprendendo+Next.js+,+Bootstrap+e+Sass;)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Estou+aprendendo+Next.js+e+Tailwind+CSS;)](https://git.io/typing-svg)
+[](url)
 <div align="center">
   
 <a href='https://github.com/VitorSam0w0' title='Pelas informações... Vitor Dias está indo muito bem!' >![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSam0w0&theme=graywhite&show_icons=true)</a>
