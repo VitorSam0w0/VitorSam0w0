@@ -42,7 +42,7 @@
 <a href='https://github.com/VitorSam0w0' title='Apenas uma imagem para decorar o local!'><img align="left" height="150" src="https://www.creativityculturecapital.org/wp-content/uploads/2021/01/02_0001_Layer-Comp-2_Copy.png"  /></a>
 
 ###
-
+<!--
 <h3 align="left">Tecnologias que estou aprendendo:</h3>
 
 ###
@@ -63,9 +63,10 @@
 <h3 align="right">Próximas tecnologias que pretendo aprender:</h3>
 
 ###
-
+-->
+<!--
 <div align="right">
-      <label htmlfor='typeS'>Framer Motion --></label>
+      <label htmlfor='typeS'>Framer Motion </label>
   <a href"https://github.com/VitorSam0w0?tab=repositories" ><a href='https://medium.com/@leonardord99/framer-motion-react-514f39a9d03e' target="_blank" rel="external"  title='Se clicar, leva para um site explicando oque é Frame Motion'><img id='typeS' src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="Frame motion logo"  /></a></a>
    <img width="12" />
 </div>
@@ -76,7 +77,7 @@
 
 <a href='https://open.spotify.com/playlist/3MQHMe17wtWzyX1rz7lp08?si=487081ec940843e5' target="_blank" rel="external" title='Umas musicas que escuto no meu dia a dia!'>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq)</a>
 
-
+-->
 
   <div>    
 </div>
