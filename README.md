@@ -41,12 +41,6 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">Meme do Momento</h3>
-  <img src="https://media.giphy.com/media/3o7TKz9b4nLfLty6C4/giphy.gif" height="150" alt="Random Meme" title="Rindo pra não debuggar!" style="border-radius: 10px; box-shadow: 0 0 20px #ff007a;" />
-  <p style="color: #fff; text-shadow: 0 0 5px #fff;">"Um meme novo a cada 6 horas pra manter o caos vivo!"</p>
-</div>
-
-<div align="center" style="margin: 30px 0;">
   <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">Lembrete Hídrico</h3>
   <pre style="color: #fff; text-shadow: 0 0 5px #00ffcc; font-size: 14px;">
  /_/\  
