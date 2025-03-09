@@ -11,16 +11,11 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">Minhas Redes Sociais</h3>
+  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">Link do meu Linkedin</h3>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank" rel="external" title='Meu LinkedIn - Conexões Profissionais'>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&color=0077B5&labelColor=000" height="45" alt="LinkedIn" style="box-shadow: 0 0 15px #0077B5; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
-    <a href="https://www.instagram.com/vsvitorsam/" target="_blank" rel="external" title='Meu Insta - Vibes Criativas'>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=E4405F&labelColor=000" height="45" alt="Instagram" style="box-shadow: 0 0 15px #E4405F; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    <a href="https://discord.gg/bFUYdPDhaN" target="_blank" rel="external" title='Meu Discord - Vamos trocar ideias!'>
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white&color=7289DA&labelColor=000" height="45" alt="Discord" style="box-shadow: 0 0 15px #7289DA; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
     </a>
   </div>
 </div>
