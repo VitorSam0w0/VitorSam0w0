@@ -1,53 +1,54 @@
-<a href='https://github.com/VitorSam0w0' title='Bem-vindo ao meu universo caótico! 🌌'><img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&text=Vitor%20Dias%20-%20UI/UX%20Vibes&fontSize=40&animation=twinkling&fontColor=fff"/></a>
+<!-- Banner principal -->
+<a href='https://github.com/VitorSam0w0' title='Bem-vindo ao universo de criação de mundos 🎮'>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Vitor%20Dias%20-%20Level%20Designer&fontSize=35&fontColor=fff&animation=fadeIn" />
+</a>
 
+<!-- Título animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff00ff&size=35¢er=true&vCenter=true&width=1000&lines=UI/UX+Designer+em+Construção;Criatividade+é+meu+combustível;Design+é+minha+paixão;Beba+Água,+caramba!&duration=2500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30&center=true&vCenter=true&width=1000&lines=Level+Designer+em+Ascensão;Criando+mundos+imersivos+e+memoráveis;Jogos+são+minha+linguagem;Fases+com+emoção+e+intenção" alt="Typing SVG" />
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">Minha Jornada em GIF</h3>
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" height="200" alt="Creative Chaos" title="Minha vida em um GIF!" style="border-radius: 15px; box-shadow: 0 0 20px #00ffcc;" />
-  <p style="color: #fff; text-shadow: 0 0 5px #fff;">"Vivendo entre pixels e ideias malucas!"</p>
+<!-- LinkedIn -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">🌐 Conecte-se comigo</h3>
+  <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank" title='Meu LinkedIn'>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">Link do meu Linkedin</h3>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank" rel="external" title='Meu LinkedIn - Conexões Profissionais'>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&color=0077B5&labelColor=000" height="45" alt="LinkedIn" style="box-shadow: 0 0 15px #0077B5; transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-    </a>
-  </div>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">Minha Vibe Musical</h3>
-  <a href='https://open.spotify.com/playlist/3MQHMe17wtWzyX1rz7lp08?si=487081ec940843e5' target="_blank" rel="external" title='Minha playlist pra criar e codar!'>
+<!-- Spotify -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #1DB954; text-shadow: 0 0 10px #1DB954;">🎧 Minha Trilha Sonora para Criar</h3>
+  <a href='https://open.spotify.com/playlist/3MQHMe17wtWzyX1rz7lp08?si=487081ec940843e5' target="_blank" title='Playlist de criação e foco'>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq&count=5&unique=true" alt="Spotify" style="border-radius: 10px; box-shadow: 0 0 20px #1DB954;" />
   </a>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">Minha Filosofia</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Designer+é+o+caos+organizado.&author=Vitor+Dias" alt="Quote" style="box-shadow: 0 0 15px #ff007a;" />
+<!-- Filosofia -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #ff007a; text-shadow: 0 0 10px #ff007a;">🧠 Minha Filosofia de Design</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Cada+fase+é+uma+mensagem+em+forma+de+espaço.&author=Vitor+Dias" alt="Quote" />
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">Minha Assinatura Cósmica</h3>
-  <a href="https://github.com/VitorSam0w0" title="Minha marca no universo digital!">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25¢er=true&vCenter=true&width=500&lines=VitorSam0w0+-+UI/UX+Explorer&duration=4000&font=Fira+Code" alt="Signature SVG" style="box-shadow: 0 0 15px #00ffcc;" />
-  </a>
-  <p style="color: #fff; text-shadow: 0 0 5px #fff;">"Deixando minha marca entre os pixels e as estrelas!"</p>
+<!-- Assinatura -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">💫 Minha Assinatura Cósmica</h3>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=--+Vitor+Dias+-+Level+Design+Explorer&duration=4000&font=Fira+Code" alt="Assinatura" />
+  <p style="color: #fff; text-shadow: 0 0 5px #fff;">"Construindo experiências que ficam na memória dos jogadores."</p>
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">Lembrete Hídrico</h3>
+<!-- Lembrete criativo -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">💧 Lembrete Criativo</h3>
   <pre style="color: #fff; text-shadow: 0 0 5px #00ffcc; font-size: 14px;">
  /_/\  
 ( o.o ) 
  > ^ <
-"BEBA ÁGUA, HUMANOS!"
+"Beba água, dev! Grandes ideias vêm de mentes hidratadas."
   </pre>
 </div>
 
-<a href='https://github.com/VitorSam0w0' title='Obrigado pela visita, até a próxima aventura! ✨'><img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120§ion=footer&text=See%20You%20in%20the%20Matrix!&fontSize=30&animation=scaleIn&fontColor=fff"/></a>
+<!-- Footer -->
+<a href='https://github.com/VitorSam0w0' title='Obrigado por visitar! Continue jogando, criando e explorando ✨'>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=See%20You%20Next%20Level!&fontSize=30&animation=fadeIn&fontColor=fff"/>
+</a>
