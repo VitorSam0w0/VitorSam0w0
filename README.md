@@ -8,12 +8,38 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30&center=true&vCenter=true&width=1000&lines=Level+Designer+em+Ascensão;Criando+mundos+imersivos+e+memoráveis;Jogos+são+minha+linguagem;Fases+com+emoção+e+intenção" alt="Typing SVG" />
 </div>
 
+<!-- Lembrete criativo -->
+<div align="center" style="margin: 40px 0;">
+  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">💧 Lembrete</h3>
+  <pre style="color: #fff; text-shadow: 0 0 5px #00ffcc; font-size: 14px;">
+ /_/\  
+( o.o ) 
+ > ^ <
+"Beba água, dev! Grandes ideias vêm de mentes hidratadas."
+  </pre>
+</div>
+
 <!-- LinkedIn -->
 <div align="center" style="margin: 40px 0;">
   <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">🌐 Conecte-se comigo</h3>
   <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank" title='Meu LinkedIn'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
+<!-- Arsenal de Ferramentas -->
+<div align="center" style="margin: 40px 0;">
+  <h3>🛠️ Arsenal de Criação</h3>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+<!-- Snake Game -->
+<div align="center" style="margin: 40px 0;">
+  <h3>🕹️ Minhas Contribuições</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Spotify -->
@@ -37,16 +63,6 @@
   <p style="color: #fff; text-shadow: 0 0 5px #fff;">"Construindo experiências que ficam na memória dos jogadores."</p>
 </div>
 
-<!-- Lembrete criativo -->
-<div align="center" style="margin: 40px 0;">
-  <h3 style="color: #00ffcc; text-shadow: 0 0 10px #00ffcc;">💧 Lembrete Criativo</h3>
-  <pre style="color: #fff; text-shadow: 0 0 5px #00ffcc; font-size: 14px;">
- /_/\  
-( o.o ) 
- > ^ <
-"Beba água, dev! Grandes ideias vêm de mentes hidratadas."
-  </pre>
-</div>
 
 <!-- Footer -->
 <a href='https://github.com/VitorSam0w0' title='Obrigado por visitar! Continue jogando, criando e explorando ✨'>
