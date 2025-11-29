@@ -85,7 +85,7 @@
 ## 💫 Assinatura
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=--+Vitor+Dias+-+Level+Design+Explorer&duration=4000&font=Fira+Code" alt="Assinatura" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=--+Vitor+Dias+-+Level+Design&duration=4000&font=Fira+Code" alt="Assinatura" />
 </div>
 
 <br><br>
