@@ -72,3 +72,25 @@
 
 <div align="center">
 
+
+"Beba água, QA! Bugs fogem de mentes hidratadas."
+
+
+</div>
+
+<br><br>
+
+## 💫 Assinatura
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Vitor+Dias+-+QA+Engineer&duration=4000&font=Fira+Code" alt="Assinatura" />
+</div>
+
+<br><br>
+
+<!-- Footer -->
+<div align="center">
+  <a href="https://github.com/VitorSam0w0" title="Obrigado pela visita! Teste bem e siga com qualidade 🚀">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Quality+is+Never+Accidental!&fontSize=30&animation=fadeIn&fontColor=fff"/>
+  </a>
+</div>
