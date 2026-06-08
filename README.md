@@ -1,96 +1,108 @@
-<!-- Banner principal -->
+<!-- Header animado -->
 <div align="center">
-  <a href="https://github.com/VitorSam0w0" title="Bem-vindo ao universo de qualidade e testes 🧪">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&text=Vitor%20Dias&fontSize=35&fontColor=fff&animation=fadeIn" />
+  <a href="https://github.com/VitorSam0w0">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=180&text=Vitor%20Dias&fontSize=42&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=em%20constante%20evolução&descSize=16&descAlignY=58&descFontColor=888888" />
   </a>
 </div>
 
-<!-- Título animado -->
+
+<!-- Typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30&center=true&vCenter=true&width=1000&lines=QA+em+Ascensão;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3500&pause=800&color=4A9EFF&center=true&vCenter=true&width=700&lines=aprendendo+todos+os+dias.;construindo+o+que+ainda+não+existe.;cada+linha+de+código+é+um+passo+adiante.;o+processo+é+o+destino." />
 </div>
 
-<br><br>
-
-## 🧠 Filosofia de Qualidade
-
+<!-- Conecte-se -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Qualidade+não+é+testar+mais,+é+testar+melhor.&author=Vitor+Dias" alt="Quote" />
-  
-  **"Garantindo experiências estáveis, seguras e confiáveis para o usuário final."**
-</div>
+  <h2>⬡ &nbsp;onde me encontrar</h2>
+  <br>
 
-<br><br>
-
-## 🛠️ Arsenal de QA
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  
-</div>
-
-<br><br>
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank" title="Meu LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4A9EFF&labelColor=0d1117" />
   </a>
-  
+  &nbsp;
+  <a href="https://github.com/VitorSam0w0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4A9EFF&labelColor=0d1117" />
+  </a>
+
 </div>
 
-<br><br>
-
-## 🧪 Atividade no GitHub
-
+<!-- Snake -->
 <div align="center">
+  <h2>◎ &nbsp;contribuições</h2>
+  <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br><br>
-
-## 🎧 Trilha Sonora de Foco
-
+<!-- Filosofia -->
 <div align="center">
-  
-  <a href="https://open.spotify.com/playlist/3MQHMe17wtWzyX1rz7lp08" target="_blank" title="Playlist de foco e estudo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzfkaqr7eehvxjiw5mtyllraxq&count=5&unique=true" alt="Spotify" />
-  </a>
-  
+  <h2>⬡ &nbsp;mentalidade</h2>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move+fast+and+break+things.+Unless+you+are+breaking+stuff,+you+are+not+moving+fast+enough.&author=Mark+Zuckerberg" />
+  <br><br>
+  <p><em>Não tenho respostas ainda. Mas estou fazendo as perguntas certas.</em></p>
 </div>
 
-<br><br>
+<br>
 
-## 💧 Lembrete Importante
 
+
+<!-- Sobre -->
 <div align="center">
+  <h2>◈ &nbsp;sobre mim</h2>
+</div>
 
 
-"Beba água, QA! Bugs fogem de mentes hidratadas."
 
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   status      →   estudando, sempre                        │
+  │   modo        →   aprendiz curioso                         │
+  │   objetivo    →   entender como tudo funciona              │
+  │   método      →   construir, errar, aprender, repetir      │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+```
+
+
+
+<!-- Jornada -->
+<div align="center">
+  <h2>◉ &nbsp;jornada</h2>
+  <br>
+
+  <table>
+    <tr>
+      <td align="center">🌱</td>
+      <td><strong>explorando fundamentos</strong></td>
+      <td><em>entendendo como as coisas se conectam</em></td>
+    </tr>
+    <tr>
+      <td align="center">🔧</td>
+      <td><strong>colocando a mão na massa</strong></td>
+      <td><em>projetos que saem do zero</em></td>
+    </tr>
+    <tr>
+      <td align="center">📐</td>
+      <td><strong>buscando clareza</strong></td>
+      <td><em>menos complexidade, mais precisão</em></td>
+    </tr>
+    <tr>
+      <td align="center">🔭</td>
+      <td><strong>olhando para frente</strong></td>
+      <td><em>tecnologia como linguagem do futuro</em></td>
+    </tr>
+  </table>
 
 </div>
 
-<br><br>
 
-## 💫 Assinatura
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=25&center=true&vCenter=true&width=500&lines=Vitor+Dias+-+QA+Engineer&duration=4000&font=Fira+Code" alt="Assinatura" />
-</div>
-
-<br><br>
 
 <!-- Footer -->
 <div align="center">
-  <a href="https://github.com/VitorSam0w0" title="Obrigado pela visita! Teste bem e siga com qualidade 🚀">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Quality+is+Never+Accidental!&fontSize=30&animation=fadeIn&fontColor=fff"/>
+  <a href="https://github.com/VitorSam0w0">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=120&section=footer&text=o+caminho+é+a+recompensa.&fontSize=22&fontColor=444444&animation=fadeIn&fontAlignY=65" />
   </a>
 </div>
