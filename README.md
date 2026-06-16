@@ -36,6 +36,17 @@
   <br><br>
 </div>
 
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=3B82F6&icon_color=22C55E&text_color=E5E7EB&bg_color=111827&border_color=374151&border_radius=12" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&hide_border=false&title_color=22C55E&text_color=E5E7EB&bg_color=111827&border_color=374151&border_radius=12&langs_count=6" />
+</p>
+
 <br>
 
 
