@@ -28,8 +28,6 @@
 
 <!-- Snake -->
 <div align="center">
-  <h2>◎ &nbsp;contribuições</h2>
-  <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
