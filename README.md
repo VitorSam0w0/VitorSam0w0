@@ -14,7 +14,6 @@
 <!-- Conecte-se -->
 <div align="center">
   <h2>⬡ &nbsp;onde me encontrar</h2>
-  <br>
 
   <a href="https://www.linkedin.com/in/vitor-dias-314566244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4A9EFF&labelColor=0d1117" />
@@ -33,11 +32,8 @@
 
 <!-- Filosofia -->
 <div align="center">
-  <h2>⬡ &nbsp;mentalidade</h2>
-  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move+fast+and+break+things.+Unless+you+are+breaking+stuff,+you+are+not+moving+fast+enough.&author=Mark+Zuckerberg" />
   <br><br>
-  <p><em>Não tenho respostas ainda. Mas estou fazendo as perguntas certas.</em></p>
 </div>
 
 <br>
@@ -62,40 +58,6 @@
   └─────────────────────────────────────────────────────────────┘
 ```
 
-
-
-<!-- Jornada -->
-<div align="center">
-  <h2>◉ &nbsp;jornada</h2>
-  <br>
-
-  <table>
-    <tr>
-      <td align="center">🌱</td>
-      <td><strong>explorando fundamentos</strong></td>
-      <td><em>entendendo como as coisas se conectam</em></td>
-    </tr>
-    <tr>
-      <td align="center">🔧</td>
-      <td><strong>colocando a mão na massa</strong></td>
-      <td><em>projetos que saem do zero</em></td>
-    </tr>
-    <tr>
-      <td align="center">📐</td>
-      <td><strong>buscando clareza</strong></td>
-      <td><em>menos complexidade, mais precisão</em></td>
-    </tr>
-    <tr>
-      <td align="center">🔭</td>
-      <td><strong>olhando para frente</strong></td>
-      <td><em>tecnologia como linguagem do futuro</em></td>
-    </tr>
-  </table>
-
-</div>
-
-
----
 
 
 <!-- Footer -->
