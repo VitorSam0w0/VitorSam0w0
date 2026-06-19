@@ -25,11 +25,6 @@
 
 </div>
 
-<!-- Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- Filosofia -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Move+fast+and+break+things.+Unless+you+are+breaking+stuff,+you+are+not+moving+fast+enough.&author=Mark+Zuckerberg" />
