@@ -1,7 +1,7 @@
 <!-- Header animado -->
 <div align="center">
   <a href="https://github.com/VitorSam0w0">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=180&text=Vitor%20Dias&fontSize=42&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=em%20constante%20evolução&descSize=16&descAlignY=58&descFontColor=888888" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=180&text=Vitor%20Sam%20Dias&fontSize=42&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=em%20constante%20evolução&descSize=16&descAlignY=58&descFontColor=888888" />
   </a>
 </div>
 
